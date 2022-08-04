@@ -12,7 +12,7 @@ function App(){
         <Navbar.Brand href="#home">Talha Mahmood</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
         <Navbar.Collapse id="responsive-navbar-nav">
-        <Nav className="">
+        <Nav className="test">
         <Nav.Link href="#Home">Home</Nav.Link>
         <Nav.Link href="#About">About</Nav.Link>
         <NavDropdown title="Degree Programs" id="collapsable-nav-dropdown">
